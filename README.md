@@ -14,7 +14,7 @@
   - [Feedback](#Feedback)
   - [License](#License)
 
-[![NOTE TAKER DEMO](./app/assets/Demo.png)](https://drive.google.com/file/d/1wEf9y3DeIPXLmt717CXoqDYgKobkOcSK/view)
+[![NOTE TAKER DEMO](./app/assets/Demo.PNG)](https://drive.google.com/file/d/1wEf9y3DeIPXLmt717CXoqDYgKobkOcSK/view "Demo")
 
   ## Installation-Instructions
   It's a web app, no need to install - check it out here: https://guarded-wildwood-11405.herokuapp.com/
